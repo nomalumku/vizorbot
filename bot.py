@@ -7,10 +7,10 @@ import google.generativeai as genai
 # ============================================
 # SOZLAMALAR — shu yerga o'zingiznikini yozing
 # ============================================
-BOT_TOKEN = "BOTFATHER_DAN_OLGAN_TOKENINGIZ"          # masalan: 7123456789:AAHk3jKL9...
-GEMINI_API_KEY = "GEMINI_API_KALITINGIZ"               # masalan: AIzaSyD4f6h8K2...
-CHANNEL_USERNAME = "@vizordesign_uz"                    # kanalingiz username'i (boshida @ bilan)
-ISM_FAMILIYA = "Ismingiz Familiyangiz"                  # har post tagiga yoziladi
+BOT_TOKEN = "8874863992:AAH0HZ5cNqFnzW9qsRvW-zNxFXkXwCjfI40"          # masalan: 7123456789:AAHk3jKL9...
+GEMINI_API_KEY = "AIAQ.Ab8RN6IZFamRrn_NHYr35Y-pftMxpfWkXao_LNhueh5hHeK3nA"               # masalan: AIzaSyD4f6h8K2...
+CHANNEL_USERNAME = "@vizor_design"                    # kanalingiz username'i (boshida @ bilan)
+ISM_FAMILIYA = "Xojiakbar Jo'rayev"                  # har post tagiga yoziladi
 
 # Premium his beruvchi emoji/stikerlar (matn ko'rinishida, har postga tasodifiy biri qo'shiladi)
 STIKERLAR = ["✨", "🎨", "💎", "🔥", "🌟", "👑"]
